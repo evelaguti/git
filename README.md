@@ -193,7 +193,8 @@ La copias y la compartes en GITHUB y eso es todo.
 Ya tenemos hecha nuestra comunicacion con github
 >### Git remote
 Agrega direcciones de repositorios externos a nuestro repositorio local.
-```git remote add [origin] [SSH/HTTPS] Conecta un repositorio con nuestro equipo local.
+```
+git remote add [origin] [SSH/HTTPS] Conecta un repositorio con nuestro equipo local.
 git remote -v Lista las conexiones existentes.
 git remote remove [origin] Elimina una conexión con algún repositorio.
 ```
