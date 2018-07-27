@@ -336,3 +336,6 @@ En el dashboard de namecheap vamos a manage nuestro dominio, vamos a configurar 
 En GitHub vamos a settings y creamos un custom URL.
 Creamos en el proyecto el archivo CNAME y en el ponemos la URL del dominio que compramos.
 La ip de GitHub es 192.168.252.153 - 192.168.252.154.
+
+
+ 
